@@ -1,0 +1,4 @@
+dnspython==2.2.1
+gunicorn==20.1.0
+pymongo==4.3.3
+pymongocrypt==1.5.1
